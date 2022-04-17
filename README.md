@@ -1,0 +1,1 @@
+Hello class, this is our repository's README, where we'll put information for other users on how to use our code.
